@@ -1,4 +1,4 @@
-/* General styles */
+
 
 body {
   margin: 0;
@@ -10,7 +10,7 @@ html {
   background-color: #ccc;
 }
 
-/* card setup */
+
 
 .card {
   width: 35em;
@@ -25,7 +25,6 @@ html {
   margin: 0;
 }
 
-/* Header and footer */
 
 .card header, .card footer {
   height: 3em;
